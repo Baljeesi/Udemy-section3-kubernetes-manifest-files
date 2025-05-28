@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: react-demo
-        image: sagarkakkalasworld/kubernetes-deployment
+        image: sagarkakkalasworld/ci-cd-deployment
         ports:
         - containerPort: 80
